@@ -1,2 +1,2 @@
 # ebco.ueuo.com
-made a website using basic scripting(HTML, CSS, JS)
+sattic website using basic scripting(HTML, CSS, JS)
